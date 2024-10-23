@@ -1,10 +1,6 @@
 
 # Gato 🐈 ou Cachorro 🐕?
 
-# ⚠️EM CONSTRUÇÃO⚠️
-
-![alt text](https://media1.tenor.com/images/bc78ea2aa84a3776d6b54d6a04e9da86/tenor.gif?itemid=17626280)
-
 ## 📒 Resumo
 - Este projeto visa desenvolver uma Rede Neural Artificial para detectar a presença de gatos ou cachorros em imagens.
 
@@ -28,9 +24,7 @@ O repositório conta com os arquivos e pastas:
 
 > Scripts
 
-- em andamento;
-
-
+- **cats_and_dogs.ipynb**: Contém o código que processa as imagens e aplica a Rede Neural Artificial (MobileNet V2) para classificar as imagens;
 
 #
 
